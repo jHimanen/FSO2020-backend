@@ -2,6 +2,6 @@ POST http://localhost:3001/persons/
 Content-Type: application/json
 
 {
-    "name": "Joel Himanen",
+    "name": "Tytti Tuppurainen",
     "nr": "040-8200800"
 }
